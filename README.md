@@ -50,6 +50,6 @@ This will generate a **public shareable link** for easy access.
 ---
 
 🔥 **Want to contribute?** Fork the repo & raise a PR!  
-📩 **Interested in AI research?** Connect with me on [LinkedIn](your-linkedin-url)!  
+📩 **Interested in AI research?** Connect with me on [LinkedIn](https://www.linkedin.com/in/shubh-garg-459079247/)!  
 
 Let’s build India’s AI future together! 🚀 🇮🇳  
